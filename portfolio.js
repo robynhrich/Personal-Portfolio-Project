@@ -15,13 +15,12 @@ $("#portfolio-button").click(function () {
 });
 
 $("#email-button").click(function () {
-  document.location.href = "mailto:robynhrich@icloud.com" + $(this).attr("id");
+  document.location.href = "mailto:robynhrich@icloud.com";
 });
 
 $("#linkedin-button").click(function () {
   document.location.href =
-    "https://www.linkedin.com/in/robyn-h-richardson-5039a7252/" +
-    $(this).attr("id");
+    "https://www.linkedin.com/in/robyn-h-richardson-5039a7252/";
 });
 
 $("#github-button").click(function () {
