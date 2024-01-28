@@ -25,7 +25,7 @@ $("#linkedin-button").click(function () {
 });
 
 $("#github-button").click(function () {
-  document.location.href = "https://github.com/robynhrich" + $(this).attr("id");
+  document.location.href = "https://github.com/robynhrich";
 });
 
 $("#simon-button").click(function () {
