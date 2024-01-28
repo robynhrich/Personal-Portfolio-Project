@@ -1,16 +1,17 @@
-$("#about-me-button").click(function () {
-  document.location.href =
-    "https://robynhrich.netlify.app/#aboutme" + $(this).attr("id");
+$("#about-button").click(function () {
+  document.location.href = "#aboutme";
 });
 
 $("#contact-button").click(function () {
-  document.location.href =
-    "https://robynhrich.netlify.app/contact.html" + $(this).attr("id");
+  document.location.href = "/contact.html";
+});
+
+$("#home-contact-button").click(function () {
+  document.location.href = "/contact.html";
 });
 
 $("#portfolio-button").click(function () {
-  document.location.href =
-    "https://robynhrich.netlify.app/portfolio.html" + $(this).attr("id");
+  document.location.href = "/portfolio.html";
 });
 
 $("#email-button").click(function () {
