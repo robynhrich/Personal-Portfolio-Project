@@ -23,7 +23,11 @@ $("#linkedin-button").click(function () {
     "https://www.linkedin.com/in/robyn-h-richardson-5039a7252/";
 });
 
-$("#github-button").click(function () {
+$("#repo-button").click(function () {
+  document.location.href = "https://github.com/robynhrich?tab=repositories";
+});
+
+https: $("#github-button").click(function () {
   document.location.href = "https://github.com/robynhrich";
 });
 
