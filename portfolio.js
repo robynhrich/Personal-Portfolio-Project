@@ -27,3 +27,19 @@ $("#linkedin-button").click(function () {
 $("#github-button").click(function () {
   document.location.href = "https://github.com/robynhrich" + $(this).attr("id");
 });
+
+$("#simon-button").click(function () {
+  document.location.href = "https://simon-says29.netlify.app/";
+});
+
+$("#happy-feelings-button").click(function () {
+  document.location.href = "https://happy-feelings-generator.netlify.app/";
+});
+
+$("#dice-button").click(function () {
+  document.location.href = "https://dice-game29.netlify.app/";
+});
+
+$("#drumkit-button").click(function () {
+  document.location.href = "https://drumkit-challenge29.netlify.app/";
+});
