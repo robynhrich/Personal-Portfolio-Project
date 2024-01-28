@@ -42,3 +42,23 @@ $("#dice-button").click(function () {
 $("#drumkit-button").click(function () {
   document.location.href = "https://drumkit-challenge29.netlify.app/";
 });
+
+$("#labyrinth-button").click(function () {
+  document.location.href = "https://labyrinth29.netlify.app/";
+});
+
+$("#skycast-button").click(function () {
+  document.location.href = "https://skycast-29.netlify.app/";
+});
+
+$("#mondrian-button").click(function () {
+  document.location.href = "https://robynhrich.github.io/Mondrian-Project/";
+});
+
+$("#tindog-button").click(function () {
+  document.location.href = "https://robynhrich.github.io/tin-dog-project/";
+});
+
+$("#hotel-button").click(function () {
+  document.location.href = "https://hotelproject29.my.canva.site/";
+});
